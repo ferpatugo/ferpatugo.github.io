@@ -1,0 +1,14 @@
+name: "website"
+navbar:
+  title: "Portfolio teste"
+  left:
+    - text: "Home"
+      href: index.html
+  right: 
+    - icon: fa-envelope fa-lg
+      href: mailto:<profestathimarques@gmail.com>
+    - icon: fa-linkedin fa-lg
+      href: https://linktr.ee/estatidados
+output:
+  html_document:
+    theme : darkly

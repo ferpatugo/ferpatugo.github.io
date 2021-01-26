@@ -1,0 +1,12 @@
+---
+title: "Porfolio teste!"
+---
+
+Ciência de dados e Estatística
+
+<img src="files/john.png" style="width:50%">
+
+Thiago Marques
+
+<img src="files/pete.png" style="width:50%">
+
